@@ -12,12 +12,12 @@ This tool analyzes Google Scholar citation metrics exported via [Publish or Peri
 1. Install the latest version of **Publish or Perish** from [harzing.com](https://harzing.com/resources/publish-or-perish)
 2. Run a search using your **Google Scholar Profile ID**
 3. Once loaded, go to:  
-   **File → Export → Export to CSV file**
+   **Save Results → Metrics as CSV... → Export to CSV file**
 4. Save the file as `pop-metrics.csv` in the same folder as this script
 
 > ⚠️ **Important:** The included `pop-metrics.csv` is **synthetically generated** for demonstration. Replace it with your real data for accurate analysis.
 
-<img width="962" alt="image" src="https://github.com/user-attachments/assets/70c1f2ae-76eb-4dbf-a8fb-a1238a5e962b" />
+![image](https://github.com/user-attachments/assets/15f70a22-d39d-4b60-9102-ab48fa48856e)
 
 ---
 
