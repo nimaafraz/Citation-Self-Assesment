@@ -59,10 +59,11 @@ This Python script:
 ## 📈 Sample Output
 
 🔍 Analyzing: author7
+```
 ⚠️ 1. Low hI/h ratio: 0.38 (10th percentile: 0.41) — Suggests low individual contribution
 ⚠️ 2. High Authors_Paper: 9.4 (90th percentile: 8.6) — Potential inflated co-authorship
 ⚠️ 3. Low hA: 2.1 (10th percentile: 3.5) — Limited co-author diversity
-
+```
 ---
 
 ## 🔗 Learn More
