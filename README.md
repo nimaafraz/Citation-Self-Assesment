@@ -63,7 +63,6 @@ This Python script:
 ⚠️ 1. Low hI/h ratio: 0.38 (10th percentile: 0.41) — Suggests low individual contribution
 ⚠️ 2. High Authors_Paper: 9.4 (90th percentile: 8.6) — Potential inflated co-authorship
 ⚠️ 3. Low hA: 2.1 (10th percentile: 3.5) — Limited co-author diversity
------------------------------------------------------------------------
 
 ---
 
@@ -83,12 +82,10 @@ This Python script:
 ## 📎 File Structure
 
 ```
-
-📁 your-repo/
+your-repo/
 ├── pop-metrics.csv         # Replace this with real output from Publish or Perish
 ├── citation\_selfcheck.py   # Python script
 ├── README.md               # You're here
-
 ```
 
 ---
@@ -100,5 +97,5 @@ Open to feedback and PRs — especially for improvements on percentile estimatio
 ---
 
 © 2025 [Nima Afraz](https://www.nima.ie) · Released under the MIT License
-```
+
 
