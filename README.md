@@ -17,7 +17,7 @@ This tool analyzes Google Scholar citation metrics exported via [Publish or Peri
 
 > ⚠️ **Important:** The included `pop-metrics.csv` is **synthetically generated** for demonstration. Replace it with your real data for accurate analysis.
 
-![Publish or Perish Export Example](https://via.placeholder.com/700x200.png?text=Screenshot+of+CSV+Export+in+Publish+or+Perish)
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/70c1f2ae-76eb-4dbf-a8fb-a1238a5e962b" />
 
 ---
 
