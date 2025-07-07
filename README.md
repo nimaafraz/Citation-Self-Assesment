@@ -58,7 +58,6 @@ This Python script:
 
 ## 📈 Sample Output
 
-```plaintext
 🔍 Analyzing: author7
 ⚠️ 1. Low hI/h ratio: 0.38 (10th percentile: 0.41) — Suggests low individual contribution
 ⚠️ 2. High Authors_Paper: 9.4 (90th percentile: 8.6) — Potential inflated co-authorship
@@ -82,10 +81,8 @@ This Python script:
 ## 📎 File Structure
 
 ```
-your-repo/
-├── pop-metrics.csv         # Replace this with real output from Publish or Perish
-├── citation\_selfcheck.py   # Python script
-├── README.md               # You're here
+pop-metrics.csv         # Replace this with real output from Publish or Perish
+
 ```
 
 ---
